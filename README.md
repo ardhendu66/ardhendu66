@@ -49,5 +49,5 @@ I'm a passionate developer from India, always exploring new technologies and bui
 
 Visitor Counter
 <p align="center">
-<img src="https://www.google.com/search?q=https://profile-counter.glitch.me/ardhendu66/count.svg" alt="Visitors Count" />
+  <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dardhendu66%26label%3DProfile%2520Visitors%26color%3Dblueviolet" alt="Visitors Count" />
 </p>
