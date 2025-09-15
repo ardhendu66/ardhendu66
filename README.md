@@ -10,10 +10,10 @@
 
 I'm a passionate developer from India, always exploring new technologies and building cool projects.
 
-<a href="mailto:youremail@example.com">
+<a href="mailto:ardhenduroy@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-profile" target="_blank">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/ardhendu-roy" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 
@@ -27,8 +27,6 @@ I'm a passionate developer from India, always exploring new technologies and bui
 👯 I’m looking to collaborate on Open Source Projects
 
 💬 Ask me about Anything related to web development and tech
-
-📫 How to reach me: [ardhenduroy2002@gmail.com]
 
 😄 Pronouns: He/Him
 
