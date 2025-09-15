@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx2azVwZzNhcGRyYTNpZGVoaDZhZGRybHk1ajR0YzV1bzBmM3hyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="100px" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100px" />
 
 <h1 align="center">Hey there, I'm Ardhendu 👋</h1>
 
